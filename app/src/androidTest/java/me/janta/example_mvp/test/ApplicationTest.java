@@ -1,4 +1,4 @@
-package me.janta.example_mvp;
+package me.janta.example_mvp.test;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

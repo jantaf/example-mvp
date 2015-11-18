@@ -15,7 +15,7 @@ public class MainInteractor {
     }
 
     public void loadElements() {
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 5; i++) {
             Element element = new Element("Element " + i, String.valueOf(i));
             elements.add(element);
         }
